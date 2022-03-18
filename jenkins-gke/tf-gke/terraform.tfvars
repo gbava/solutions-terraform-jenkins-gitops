@@ -2,8 +2,8 @@
 
 project_id = "jtf-gcp"
 tfstate_gcs_backend = "jtf-gcp-tfstate"
-region = "us-east4"
-zones = ["us-east4-a"]
+region = "europe-west4"
+zones = ["europe-west4-a"]
 ip_range_pods_name = "ip-range-pods"
 ip_range_services_name = "ip-range-scv"
 network_name = "jenkins-network"
